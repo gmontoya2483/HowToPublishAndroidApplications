@@ -23,7 +23,7 @@ Throughout the publishing process, we use the [Google Play Developer Console](ht
 
 After you register, you’ll see your dashboard.
 
-![Screenshot1](images/google_play_console.png)
+![Screenshot1](images/google_play_console.PNG)
 
 
 ## Guidelines to follow
@@ -47,6 +47,6 @@ See the [Google Play Policies and Guidelines](https://play.google.com/about/deve
  
 ## Determining App Setup
 
-See [Determining App Setup](documentation/DeterminingAppSetup.png) documentation  
+See [Determining App Setup](documentation/DeterminingAppSetup.md) documentation  
  
  
