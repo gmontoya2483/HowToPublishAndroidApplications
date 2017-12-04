@@ -48,5 +48,9 @@ See the [Google Play Policies and Guidelines](https://play.google.com/about/deve
 ## Determining App Setup
 
 See [Determining App Setup](documentation/DeterminingAppSetup.md) documentation  
+
+## Prep for Release-Ready APK
+
+See [Prep for Release-Ready APK](documentation/PrepForReleaseReadyAPK.md)
  
  
